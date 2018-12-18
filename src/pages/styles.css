@@ -13,7 +13,7 @@
 }
 
 .number {
-  font-size: 450px;
+  font-size: 100px;
   color: #373c4c;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .slopeBegin {
-  background-color: #20232f;
+  background-image: url("https://image.shutterstock.com/z/stock-photo-homemade-chicken-shawarma-plate-with-salad-and-rice-1068094160.jpg");
   clip-path: polygon(20vw 0, 70% 0, calc(70% - 20vw) 100%, 0 100%);
 }
 
